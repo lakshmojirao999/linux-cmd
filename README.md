@@ -37,14 +37,14 @@ The Linux command is a utility of the Linux operating system. All basic and adva
 
    ```bash
    $ who
-   sudheer :0 2019-08-04 01:21 (:0)
+   vagrant :0 2019-08-04 01:21 (:0)
    ```
 
 2. **whoami:** It display the system’s username
 
    ```bash
    $ whoami
-   sudheer
+   vagrant
    ```
 
 3. **id:** It display the user identification(the real and effective user and group IDs) information
@@ -163,7 +163,7 @@ The Linux command is a utility of the Linux operating system. All basic and adva
 
      //Home directory
      $ ls ~
-     Desktop    Downloads  Pictures  Sudheer    test   test.txt
+     Desktop    Downloads  Pictures  vagrant    test   test.txt
      Documents  Music      Public    Templates  test1  Videos
     ```
 
@@ -322,7 +322,7 @@ Each file or directory has following permissions for the above 3 types of owners
 
     The above authorization levels represented in a diagram
 
-<img src="https://github.com/sudheerj/Linux-cheat-sheet/blob/master/images/permissions.png" width="600" height="400">
+<img src="https://github.com/vagrantj/Linux-cheat-sheet/blob/master/images/permissions.png" width="600" height="400">
 
 There is a need to restrict own file/directory access to others.
 
